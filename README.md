@@ -7,3 +7,8 @@ Please use at your own risk!
 
 ## Compatibility
 This tool is tested with version EarlyAccess.32444.
+
+## Installation
+Either download the source files and compile manually or
+go to https://github.com/RomulusAugustulus/SotF_TreeRespawnerGUI/releases
+and download SotF_TreeRespawner.zip for the executable.
